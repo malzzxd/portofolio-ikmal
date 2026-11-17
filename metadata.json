@@ -1,0 +1,6 @@
+{
+  "name": "Portofolio Digital — Iqmalul Khoir (SMKN 1 Sidayu Gresik)",
+  "description": "Portofolio digital resmi Iqmalul Khoir, siswa jurusan Teknik Instalasi Tenaga Listrik (TITL) di SMKN 1 Sidayu Gresik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
